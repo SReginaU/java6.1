@@ -1,6 +1,6 @@
-package ru.netology;
+package ru.netology.javaqa.services;
 
-import ru.netology.javamvn6.services.CountMonthService;
+import ru.netology.javaqa.services.CountMonthService;
 
 public class Main {
     public static void main(String[] args) {
